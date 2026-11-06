@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "4.0.2",
+  "versionCode": 33,
+  "versionName": "4.0.3",
   "apk": "sePokka.apk",
-  "size": 19608191,
-  "notes": "• Обновлены библиотеки (камера, Android Jetpack) и средства сборки\n• Проверка кода Android Lint — без замечаний"
+  "size": 19612287,
+  "notes": "• Исправлен вылет при включении камеры"
 }
